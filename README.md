@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Harika Gurukunta 👋
 
-<!--
-**HarikaGurukunta/HarikaGurukunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Machine Learning–Focused Data Scientist
 
-Here are some ideas to get you started:
+I am a Data Scientist specializing in building predictive models, optimizing machine learning systems, and translating data into actionable business insights. My focus is on developing scalable ML solutions with strong evaluation and deployment practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Core Expertise
+
+- Supervised Machine Learning (Regression & Classification)
+- Feature Engineering & Model Optimization
+- Hyperparameter Tuning (GridSearch, Random Search)
+- Model Evaluation (ROC-AUC, F1-Score, Precision-Recall)
+- End-to-End ML Pipeline Development
+
+---
+
+### 🛠 Technical Stack
+
+- **Programming:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost  
+- **Visualization:** Matplotlib, Seaborn  
+- **Deployment:** Flask, Docker, AWS  
+- **Version Control:** Git, GitHub  
+
+---
+
+### 📌 Current Focus
+
+Building production-ready ML systems and real-world predictive analytics projects.
+
