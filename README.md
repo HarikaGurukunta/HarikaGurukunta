@@ -1,12 +1,12 @@
 # Hi, I'm Harika Gurukunta 👋
 
-## 🚀 Machine Learning–Focused Data Scientist
+##  Machine Learning–Focused Data Scientist
 
 I am a Data Scientist specializing in building predictive models, optimizing machine learning systems, and translating data into actionable business insights. My focus is on developing scalable ML solutions with strong evaluation and deployment practices.
 
 ---
 
-### 🔬 Core Expertise
+###  Core Expertise
 
 - Supervised Machine Learning (Regression & Classification)
 - Feature Engineering & Model Optimization
@@ -16,7 +16,7 @@ I am a Data Scientist specializing in building predictive models, optimizing mac
 
 ---
 
-### 🛠 Technical Stack
+### Technical Stack
 
 - **Programming:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost  
@@ -26,7 +26,7 @@ I am a Data Scientist specializing in building predictive models, optimizing mac
 
 ---
 
-### 📌 Current Focus
+###  Current Focus
 
 Building production-ready ML systems and real-world predictive analytics projects.
 
